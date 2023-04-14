@@ -1,2 +1,2 @@
 #!/bin/bash
-Big X space then .
+mkdir  -m 751 my_dir
